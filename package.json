@@ -1,0 +1,26 @@
+{
+  "name": "rn-grid-view",
+  "version": "1.0.0",
+  "description": "React Native Grid View - Group lists (supports lists with headers) and display them as grouped rows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KartikTalwar/rn-grid-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "rn",
+    "grid-view",
+    "grid",
+    "view",
+    "react",
+    "native",
+    "ios"
+  ],
+  "author": "Kartik Talwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KartikTalwar/rn-grid-view/issues"
+  },
+  "homepage": "https://github.com/KartikTalwar/rn-grid-view"
+}
