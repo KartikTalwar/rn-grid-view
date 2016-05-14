@@ -1,12 +1,12 @@
 'use strict';
 
-var React = require('react-native');
+import React, { Component } from 'react';
 
-var {
+import {
   View,
   ListView,
   StyleSheet,
-} = React;
+} from 'react-native';
 
 
 var GridView = React.createClass({
