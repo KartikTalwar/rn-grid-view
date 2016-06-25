@@ -1,6 +1,6 @@
 {
   "name": "rn-grid-view",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React Native Grid View - Group lists (supports lists with headers) and display them as grouped rows",
   "main": "index.js",
   "repository": {
